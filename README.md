@@ -1,9 +1,9 @@
 # Covid-19-Live-Data-Table
 Covid-19-Live-Data-Table
 
-***Live Preview https://f-reza.github.io/Covid-19-Live-Data-Table/
+***Live Preview https://nextdigitofficial.github.io/Covid-19-Live-Data-Table/
 
-***Repository https://github.com/F-Reza/Covid-19-Live-Data-Table/
+***Repository https://github.com/nextdigitofficial/Covid-19-Live-Data-Table/
 
 #################################################################################
 
